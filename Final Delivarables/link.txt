@@ -1,0 +1,9 @@
+
+a novel method for hand written digit recognition
+
+github account demo video:
+
+https://github.com/IBM-EPBL/IBM-Project-48243-1660805913/blob/main/Final%20Delivarables/Record_2022-11-26-14-39-34.mp4
+
+
+google drive link: https://drive.google.com/file/d/1rfx_Fk2D_rboTBYAkOD-wRV676hKNbZz/view?usp=drivesdk
